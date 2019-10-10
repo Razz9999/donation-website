@@ -1,0 +1,29 @@
+/*body{
+	display: flex;
+	align-items: center;
+	display-direction:column;
+	justify-content: center;
+}*/
+
+.container{
+	width: 500px;
+	margin-left: 33%;
+	/*background-color: #00264d;*/
+	border:2px solid #00264d;
+	border-radius: 20px;
+	margin-top: 6%;
+	
+
+	
+	}
+form{
+	display: flex;
+	/*align-items: center;*/
+	flex-direction:column;
+	justify-content: center;
+	/*background-color: #ffd9b3;*/
+	/*width: 50%;*/
+	margin-bottom: 15px;
+	border-radius: 12px;
+
+}
